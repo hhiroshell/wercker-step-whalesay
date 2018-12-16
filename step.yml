@@ -1,0 +1,11 @@
+name: whalesay 
+version: 1.0.0
+summary: whalesay
+# tags:
+#   - template
+#   - steps
+#   - template
+properties:
+- name: message
+  type: string
+  required: true
